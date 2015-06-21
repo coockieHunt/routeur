@@ -1,0 +1,16 @@
+{
+    "name": "root/routeur",
+    "authors": [
+        {
+            "name": "jonathan gleyze",
+            "email": "contact@jonathangleyze.ovh"
+        }
+    ],
+    "autoload":{
+    	"psr-4": {
+    		 "router\\": "lib"
+    	}
+    },
+
+    "require": {}
+}
